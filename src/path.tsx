@@ -1,0 +1,6 @@
+export {default as VegDesign} from './components/VegDesign'
+export {default as TrainDesign} from './components/TrainDesign'
+export {default as Header} from './components/Header'
+export {default as Onam} from './Pages/Onam'
+export {default as Onam2} from './Pages/Onam2'
+export {default as Onam3} from './Pages/onam3'
